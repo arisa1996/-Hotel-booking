@@ -1,24 +1,9 @@
-# vue_hotel
+# 旅館訂房頁面
 
-## Project setup
-```
-npm install
-```
+### 使用技術
+* 配合 UI 設計師稿件
+* 使用 Vue.js 
+* 套用 Element UI 作互動
+* 自行撰寫 RWD
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://i.imgur.com/fnPg5YW.png)
