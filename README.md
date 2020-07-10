@@ -6,5 +6,4 @@
 * 套用 Element UI 作互動
 * 自行撰寫 RWD
 
-![](https://i.imgur.com/fnPg5YW.png)
 ![](https://i.imgur.com/853pTKW.png)
